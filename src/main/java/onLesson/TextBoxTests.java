@@ -40,8 +40,6 @@ public class TextBoxTests{
         $("#output #currentAddress").shouldHave(text(currentAddress));
         $("#output #permanentAddress").shouldHave(text(permanentAddress));
 
-
-
     }
 
 }
