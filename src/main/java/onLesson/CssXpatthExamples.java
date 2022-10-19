@@ -45,6 +45,5 @@ public class CssXpatthExamples {
         $x("//div[text()[contains(., 'llo qa.gur')]]");
         $(byText("Hello qa.guru"));
         $(withText("llo qa.gur"));
-
     }
 }
