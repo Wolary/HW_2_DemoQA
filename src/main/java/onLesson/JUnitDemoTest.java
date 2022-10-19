@@ -9,6 +9,7 @@ public class JUnitDemoTest {
         System.out.println("### @BeforeAll");
     }
 
+
     @BeforeEach
     void beforeEachTest() {
         System.out.println("###         @beforeEach");
